@@ -1,0 +1,74 @@
+.columna{
+	margin: 5% 10%;
+}
+#grande{
+	font-size: 70px;
+}
+button{
+	background-color: #00284d;
+}
+.ins{
+	margin-left: 10%;
+	width: 7%;
+	height: 30px;
+}
+.bt-cnt{
+	position: relative;
+	margin-left: 42%;
+	width: 15%;
+	height: 50px;
+}
+.back{
+	background-image: url(../img/textura_2.jpg);
+	margin-left: -25%;
+}
+.bt-bg-g{
+	width: 1505px;
+	height: 700px;
+	margin-top: -2%;
+	margin-left: -25%;
+
+}
+.no-bt{
+	width: 1505px;
+	height: 500px;
+}
+.vr{
+	margin-left: 40%;
+	width: 20%;
+	height: 15%;
+}
+.bt-lg{
+	margin-left: 38%; 
+	width: 45%;
+	height: 45px;
+}
+.izq{
+	margin-left: -55%;
+	display: block;
+}
+.der{
+	margin-left: 9%;
+}
+.compl{
+	width: 760px;
+	height: 500px;
+	border: 3px solid #00284d;
+}
+.md-img{
+    position: relative;
+    float: left;
+    clear: both;
+    margin-top: -5%;
+}
+.br-bl{
+	background-color: #00284d;
+}
+.seccion{
+	width: 1505px;
+	height: 450px;
+	margin-left: -25%;
+}
+.mp-tx{
+	margin-top: 7%;
+}

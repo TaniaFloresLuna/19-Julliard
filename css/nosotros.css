@@ -1,0 +1,26 @@
+.dnc{
+	background-image: url(../img/dance_7.jpg);
+	margin-left: -25%;
+	width: 1505px;
+	height: 450px;
+}
+.grd{
+	width: 600px;
+	height: 200px;
+	margin: 10% 27%;
+}
+.back-2{
+	background-image: url(../img/cubes.png);
+	background-repeat: repeat;
+	width: 1505px;
+	height: 200px;
+	margin-left: -25%;
+	}
+.professor{
+		width: 230PX;
+		height: 230PX;
+		margin: 3% 5%;
+	}
+.img-tlt{
+		margin: 1% 5%;
+	}

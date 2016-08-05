@@ -1,0 +1,45 @@
+/*Header*/
+li{
+	display: inline-block;
+	margin:3%;
+}
+ul{
+	margin: 2% 33%;
+}
+
+.imgfondo{
+	background-image: url(../img/dance_1.jpg);
+	width: 1505px;
+	height: 500px;
+	margin-top: -2%;
+	margin-left: -25%;
+}
+/*Contacto*/
+.bl-bg{
+	background-image: url(../img/shoes_1.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	padding-left: 5%;
+	height: 500px;
+}
+/*footer*/
+.pie{
+	width: 1505px;
+	height: 30px;
+	margin-left: -25%;
+} 
+.br-bl{
+	background-color: #00284d;
+}
+/*Frases*/
+.cabecera{
+	font-size: 35px;
+	color: black;
+	margin:10%;
+}
+/*Negro-transparente*/
+.bl-op{
+	background-color: black;
+	opacity: 0.5;
+}
+

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Escuela de Danza</title>
+	<link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Montserrat:400,700'>
+	<link rel="stylesheet" type="text/css" href="css/grid-system.css">
+	<link rel="stylesheet" type="text/css" href="css/utilities.css">
+	<link rel="stylesheet" type="text/css" href="css/common.css">
+	<link rel="stylesheet" type="text/css" href="css/blog.css">
+</head>
+<body>
+	<div class="container">
+		<header><!--Encabezado-->
+			<div class="row"><!--Titulo-->
+				<div class="col-12">
+					<a href="index.html">
+						<h1 class="text-center text-blue" id="inicio">Escuela de Danza</h1>
+					</a>
+				</div>
+			</div><!--Termina titulo-->
+			<div class="row"><!--Comienza menú-->
+				<div class="col-12">
+					<nav>
+						<ul>
+							<a href="nosotros.html">
+								<li class="text-center text-gray ">Nosotros</li>
+							</a>
+							<a href="clases.html">
+								<li class="text-center text-gray ">Clases</li>
+							</a>
+							<a href="blog.html">
+								<li class="text-center text-gray ">Blog</li>
+							</a>
+							<a href="#formulario">
+								<li class="text-center text-gray ">Contacto</li>
+							</a>
+						</ul>
+					</nav>
+				</div>
+			</div><!--Termina menú-->
+		</header>
+
+
+
+
+
+
+		<section class="bl-bg" id="formulario"><!--comienza Contacto-->
+			<div class="row">
+				<div class="col-12 text-left">
+					<h2 class="text-left text-blue">Contáctanos</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12 text-left">
+					<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+						<div class="row">
+							<label for="name">Nombre:</label><br />
+							<input id="name" class="input" name="name" type="text" value="" size="40" /><br />
+						</div>
+						<div class="row">
+							<label for="email">E-mail:</label><br />
+							<input id="email" class="input" name="email" type="text" value="" size="40" /><br />
+						</div>
+						<div class="row">
+							<label for="message">Mensaje:</label><br />
+							<textarea id="message" class="input" name="message" rows="7" cols="40"></textarea><br />
+						</div>
+						<input id="submit_button" type="submit" value="Send email" />
+					</form>						
+
+				</div>
+			</div>
+		</section><!--Termina contacto-->
+
+		<footer><!--Comineza Pie-->
+			<div class="row br-bl pie">
+				<div class="col-12">
+					<p class="text-white text-center">&copy;Escuela de Danza. Todos los derechos reservados</p>
+				</div>
+			</div>
+		</footer><!--Termina Pie-->
+
+	</div>
+</body>
+</html>
